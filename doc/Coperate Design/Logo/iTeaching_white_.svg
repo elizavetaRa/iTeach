@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 522.85725 147.73459"
+   height="41.693985mm"
+   width="147.56194mm">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0.05077247,-0.33663073)"
+     id="layer2" />
+  <g
+     transform="translate(0.05077247,-0.33663073)"
+     id="layer1">
+    <text
+       id="text3336"
+       y="109.3265"
+       x="10.714288"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;font-family:Gabriola;-inkscape-font-specification:Gabriola;fill:#7acf1e;fill-opacity:1"
+         y="109.3265"
+         x="10.714288"
+         id="tspan3338">i<tspan
+   id="tspan4154"
+   style="font-size:25px;fill:#ffffff">_</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:118.75px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N Light';fill:#000000"
+   id="tspan4148">Teaching</tspan></tspan></text>
+  </g>
+  <g
+     transform="translate(0.05077247,-0.33663073)"
+     id="layer4">
+    <rect
+       y="40.556023"
+       x="16.364435"
+       height="15.152288"
+       width="14.142136"
+       id="rect5629"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(0.05077247,-0.33663073)"
+     id="layer3">
+    <ellipse
+       ry="25.714285"
+       rx="31.428572"
+       cy="280.93362"
+       cx="83.571426"
+       id="path4168"
+       style="fill:#ffffff;fill-opacity:1" />
+    <circle
+       r="10.775102"
+       cy="49.243553"
+       cx="22.81753"
+       id="path5622"
+       style="fill:none;fill-opacity:1;stroke:#7acf1e;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="2.8802588"
+       cy="49.394836"
+       cx="22.677893"
+       id="path5622-1"
+       style="fill:none;fill-opacity:1;stroke:#7acf1e;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

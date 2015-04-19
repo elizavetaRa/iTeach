@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="147.56194mm"
+   height="41.693985mm"
+   viewBox="0 0 522.85725 147.73459"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="iTeaching_.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="271.04835"
+     inkscape:cy="116.0033"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2"
+     transform="translate(0.05077247,-0.33663073)">
+    <rect
+       style="fill:#000000;fill-opacity:1"
+       id="rect4163"
+       width="522.85724"
+       height="147.73459"
+       x="-0.050772466"
+       y="0.33663073" />
+  </g>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.05077247,-0.33663073)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.714288"
+       y="109.3265"
+       id="text3336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="10.714288"
+         y="109.3265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;font-family:Gabriola;-inkscape-font-specification:Gabriola;fill:#7acf1e;fill-opacity:1">i<tspan
+   style="font-size:25px;fill:#000000"
+   id="tspan4154">_</tspan><tspan
+   id="tspan4148"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:118.75px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N Light';fill:#ffffff">Teaching</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Ebene 4"
+     transform="translate(0.05077247,-0.33663073)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5629"
+       width="14.142136"
+       height="15.152288"
+       x="16.364435"
+       y="40.556023" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ebene 3"
+     transform="translate(0.05077247,-0.33663073)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1"
+       id="path4168"
+       cx="83.571426"
+       cy="280.93362"
+       rx="31.428572"
+       ry="25.714285" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#7acf1e;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5622"
+       cx="22.81753"
+       cy="49.243553"
+       r="10.775102" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#7acf1e;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5622-1"
+       cx="22.677893"
+       cy="49.394836"
+       r="2.8802588" />
+  </g>
+</svg>
