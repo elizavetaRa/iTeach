@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="969BED1C1FCFA1E7">
-  <PROJECT FORMAT="1.00" NAME="Uniknigge" AUTHOR="Juri" CREATED="2015.04.29 15:16:32" MODIFIED="2015.04.29 15:31:33">
+<FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="4B609C7AD7424FD6">
+  <PROJECT FORMAT="1.00" NAME="Uniknigge" AUTHOR="Juri" CREATED="2015.04.29 15:16:32" MODIFIED="2015.04.29 15:53:08">
     <DIAGRAMS>
-      <DIAGRAM FORMAT="1.00" ID="0" NAME="Hauptprogramm 1" CREATED="2015.04.29 15:16:41" MODIFIED="2015.04.29 15:31:33">
-        <LAYOUT FORMAT="1.00" COLUMNS="3" ROWS="22">
+      <DIAGRAM FORMAT="1.00" ID="0" NAME="Unikniggeprogramm" CREATED="2015.04.29 15:16:41" MODIFIED="2015.04.29 15:53:08">
+        <LAYOUT FORMAT="1.00" COLUMNS="3" ROWS="24">
           <ENTRIES>
             <ENTRY COLUMN="0" ROW="6">
               <FIGURE SUBTYPE="PapModule" FORMAT="1.00" ID="155">
@@ -47,7 +47,7 @@
             </ENTRY>
             <ENTRY COLUMN="1" ROW="0" ANCHOR="True">
               <FIGURE SUBTYPE="PapTitle" FORMAT="1.00" ID="0">
-                <TEXT><![CDATA[Hauptprogramm 1]]></TEXT>
+                <TEXT><![CDATA[Unikniggeprogramm]]></TEXT>
               </FIGURE>
             </ENTRY>
             <ENTRY COLUMN="1" ROW="1">
@@ -141,16 +141,26 @@
               </FIGURE>
             </ENTRY>
             <ENTRY COLUMN="1" ROW="19">
-              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="145">
-                <TEXT><![CDATA[Schlafen]]></TEXT>
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="158">
+                <TEXT><![CDATA[Was machen?]]></TEXT>
               </FIGURE>
             </ENTRY>
             <ENTRY COLUMN="1" ROW="20">
+              <FIGURE SUBTYPE="PapModule" FORMAT="1.00" ID="187">
+                <TEXT><![CDATA[Duschen]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="21">
+              <FIGURE SUBTYPE="PapModule" FORMAT="1.00" ID="186">
+                <TEXT><![CDATA[Schlafen]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="22">
               <FIGURE SUBTYPE="PapModule" FORMAT="1.00" ID="147">
                 <TEXT><![CDATA[Bett finden]]></TEXT>
               </FIGURE>
             </ENTRY>
-            <ENTRY COLUMN="1" ROW="21">
+            <ENTRY COLUMN="1" ROW="23">
               <FIGURE SUBTYPE="PapEnd" FORMAT="1.00" ID="2">
                 <TEXT><![CDATA[Ende]]></TEXT>
               </FIGURE>
@@ -238,7 +248,7 @@
           <CONNECTION FORMAT="1.00" ID="114" FROM="113" TO="82" TEXT="" />
           <CONNECTION FORMAT="1.00" ID="92" FROM="90" TO="153" TEXT="" />
           <CONNECTION FORMAT="1.00" ID="120" FROM="118" TO="113" TEXT="" />
-          <CONNECTION FORMAT="1.00" ID="124" FROM="123" TO="145" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="124" FROM="123" TO="158" TEXT="" />
           <CONNECTION FORMAT="1.00" ID="122" FROM="121" TO="125" TEXT="" />
           <CONNECTION FORMAT="1.00" ID="128" FROM="150" TO="139" TEXT="" />
           <CONNECTION FORMAT="1.00" ID="140" FROM="139" TO="123" TEXT="" />
@@ -251,8 +261,9 @@
           <CONNECTION FORMAT="1.00" ID="141" FROM="137" TO="139" TEXT="" />
           <CONNECTION FORMAT="1.00" ID="133" FROM="131" TO="149" TEXT="" />
           <CONNECTION FORMAT="1.00" ID="144" FROM="142" TO="139" TEXT="" />
-          <CONNECTION FORMAT="1.00" ID="146" FROM="145" TO="147" TEXT="" />
-          <CONNECTION FORMAT="1.00" ID="148" FROM="147" TO="2" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="185" FROM="158" TO="187" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="184" FROM="187" TO="186" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="183" FROM="186" TO="147" TEXT="" />
         </CONNECTIONS>
       </DIAGRAM>
     </DIAGRAMS>
