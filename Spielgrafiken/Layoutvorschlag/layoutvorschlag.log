@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 MAY 2015 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 MAY 2015 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,56 +422,62 @@ Package pdftex.def Info: ./figures/logo.png used on input line 36.
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figur
-es/logo.png>] <./figures/mainmenu.png, id=12, 1027.84pt x 578.16pt>
-File: ./figures/mainmenu.png Graphic file (type png)
+es/logo.png>] <../layout/layout_mainmenu.png, id=12, 1027.84pt x 578.16pt>
+File: ../layout/layout_mainmenu.png Graphic file (type png)
 
-<use ./figures/mainmenu.png>
-Package pdftex.def Info: ./figures/mainmenu.png used on input line 40.
-(pdftex.def)             Requested size: 345.0pt x 194.06635pt.
- <./figures/apb.png, id=13, 1027.84pt x 578.16pt>
-File: ./figures/apb.png Graphic file (type png)
-
-<use ./figures/apb.png>
-Package pdftex.def Info: ./figures/apb.png used on input line 46.
-(pdftex.def)             Requested size: 345.0pt x 194.06635pt.
- <./figures/hsz.png, id=14, 1027.84pt x 578.16pt>
-File: ./figures/hsz.png Graphic file (type png)
-
-<use ./figures/hsz.png>
-Package pdftex.def Info: ./figures/hsz.png used on input line 52.
-(pdftex.def)             Requested size: 345.0pt x 194.06635pt.
- <./figures/busspiel.png, id=15, 1027.84pt x 578.16pt>
-File: ./figures/busspiel.png Graphic file (type png)
-
-<use ./figures/busspiel.png>
-Package pdftex.def Info: ./figures/busspiel.png used on input line 58.
+<use ../layout/layout_mainmenu.png>
+Package pdftex.def Info: ../layout/layout_mainmenu.png used on input line 40.
 (pdftex.def)             Requested size: 345.0pt x 194.06635pt.
 
-<./figures/smartphone.png, id=16, 1027.84pt x 578.16pt>
-File: ./figures/smartphone.png Graphic file (type png)
+<../layout/layout_apb.png, id=13, 1027.84pt x 578.16pt>
+File: ../layout/layout_apb.png Graphic file (type png)
 
-<use ./figures/smartphone.png>
-Package pdftex.def Info: ./figures/smartphone.png used on input line 64.
+<use ../layout/layout_apb.png>
+Package pdftex.def Info: ../layout/layout_apb.png used on input line 46.
+(pdftex.def)             Requested size: 345.0pt x 194.06635pt.
+
+<../layout/layout_hsz.png, id=14, 1027.84pt x 578.16pt>
+File: ../layout/layout_hsz.png Graphic file (type png)
+
+<use ../layout/layout_hsz.png>
+Package pdftex.def Info: ../layout/layout_hsz.png used on input line 52.
+(pdftex.def)             Requested size: 345.0pt x 194.06635pt.
+
+<../layout/layout_busspiel.png, id=15, 1027.84pt x 578.16pt>
+File: ../layout/layout_busspiel.png Graphic file (type png)
+
+<use ../layout/layout_busspiel.png>
+Package pdftex.def Info: ../layout/layout_busspiel.png used on input line 58.
+(pdftex.def)             Requested size: 345.0pt x 194.06635pt.
+
+<../layout/layout_busspiel_menu.png, id=16, 1027.84pt x 578.16pt>
+File: ../layout/layout_busspiel_menu.png Graphic file (type png)
+
+<use ../layout/layout_busspiel_menu.png>
+Package pdftex.def Info: ../layout/layout_busspiel_menu.png used on input line 
+64.
 (pdftex.def)             Requested size: 345.0pt x 194.06635pt.
 File: ./figures/logo.png Graphic file (type png)
  <use ./figures/logo.png>
 Package pdftex.def Info: ./figures/logo.png used on input line 68.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [2 <./figures/mainmenu.png> <./figures/apb.png>]
+ [2 <../layout/layout_mainmenu.png> <../layout/layout_apb.png>]
 File: ./figures/logo.png Graphic file (type png)
  <use ./figures/logo.png>
 Package pdftex.def Info: ./figures/logo.png used on input line 68.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [3 <./figures/hsz.png> <./figures/busspiel.png>]
+
+[3 <../layout/layout_hsz.png> <../layout/layout_busspiel.png>]
 File: ./figures/logo.png Graphic file (type png)
- <use ./figures/logo.png>
+
+<use ./figures/logo.png>
 Package pdftex.def Info: ./figures/logo.png used on input line 68.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [4 <./figures/smartphone.png>]
+ [4 <../layout/layout_busspiel_menu.png>]
 (./layoutvorschlag.aux) ) 
 Here is how much of TeX's memory you used:
- 2317 strings out of 493117
- 32936 string characters out of 6135433
+ 2318 strings out of 493117
+ 33136 string characters out of 6135433
  89731 words of memory out of 5000000
  5727 multiletter control sequences out of 15000+600000
  16017 words of font info for 40 fonts, out of 8000000 for 9000
