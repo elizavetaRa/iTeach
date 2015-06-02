@@ -1,0 +1,9 @@
+Szenengröße: 1024x576 Px
+
+Mainmenü: Buttons: Schrift: Source Sans Pro Bold 24 Pt
+                   Position: an Ansicht ausrichten
+
+Menü:     Deckkraft: 95%
+          Symbole: 85%, Symboleposition an Ansicht ausrichten
+          Balken gefüllt: Farbe #017B32
+          Buttons: an Asnicht ausrichten
