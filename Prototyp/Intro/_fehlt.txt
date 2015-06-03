@@ -1,0 +1,3 @@
+- zweiter button (link zu 3. szene) funktioniert nicht
+- letzte szene fehlt mit erschrocken und sprechblase
+- sound

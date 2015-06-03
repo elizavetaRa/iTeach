@@ -1,0 +1,23 @@
+13.04. - 19.04.
+===============
+
+Namensgebung
+Nach kurzer Zeit standen folgende Namen zur Debatte:
+- iTeaching
+- LADS (Lernprogramm zur Aufklärung Dresdner Studenten)
+- LFL (Labor für Lernprogramme)
+- I-Teaching
+Wir entschieden uns für iTeaching.
+
+Design
+Es wurde über ein allgemeines Corporate Design für Dokumente abgestimmt und ein Signet erstellt.
+
+Themenfindung
+Anfangs überlegten wir uns einen "Uni-Knigge" zu erstellen, welcher Erstsemestern die Verhaltensweise des für sie neuen Universitätsalltags näher bringen soll. Der Student soll verschiedene Dinge spielerisch erledigen und erlernen. Die Aufgaben und Minigames sind angelehnt an die ESE-Woche, welche jedes Jahr vom IFSR veranstaltet wird und dem Erstsemestler den Einstieg in den Universitätsalltag erleichtert.
+Nach weiteren Überlegungen kam die zweite Idee zustande, dass unser Lernspiel für Studenten, den Spieler über die Folgen des Drogenkonsums aufklären soll. Drogen erfreuen sich besonders unter Studenten großer Beliebtheit aber können schwerwiegende Folgen nach sich ziehen. Daher empfanden wir diese Idee ebenfalls sehr gut als Lehrspiel für unsere Zielgruppe.
+
+Mitglieder
+Hung wurde als Gruppenleiter der Praktikumsgruppe festgelegt.
+Philipp wurde als Protokollant der Praktikumsgruppe festgelegt.
+
+http://pastebin.com/343T7aDj
