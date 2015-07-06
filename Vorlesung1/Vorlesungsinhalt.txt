@@ -1,0 +1,38 @@
+Vorlesung 1
+===========
+
+//Professor
+- Die Turingmaschine wurde 1936 von Alan Turing erfunden und modelliert sehr einfach die Arbeitsweise eines Computers.
+
+- Der Z3 war der erste funktionstüchtige, vollautomatische, programmgesteuerte und frei programmierbare Rechner und somit der erste Computer.
+
+- Mit einem NAND-Gatter Baustein lassen sich alle anderen logischen Bausteine ersetzen.
+
+//Studenten
+2) 	Hey! Willst du mit in die Mensa?
+1)	Ja klar! Hab Hunger.
+	Nein! Es ist noch Vorlesung.
+	Nach der Vorlesung gern.
+
+2)	Hast du das Video hier schon gesehen?
+1)	Nein. Zeig mal her!
+	Nein. Will ich auch gerade nicht.
+	Lass es uns später angucken.
+
+2)	Kommst du mit raus in die Sonne?
+1)	Ja. Los, lass gehen.
+	Nein! Es ist noch Vorlesung.
+	Nach der Vorlesung gern.
+
+Vorlesung 2
+===========
+
+//Professor
+- Das bestimmte Integral ordnet einer Funktion einen Zahlwert zu. Dieser entspricht der Fläche unter der Kurve zwischen 2 angegebenen Werten.
+
+- C ist eine imperative Programmiersprache. Haskell eine funktionale Programmiersprache.
+
+- Ein Compiler übersetzt eine Hochsprache in für den Computer verständlichen Maschinencode.
+
+//Studenten
+*Handy fliegt rum und Student muss es wegklicken.
