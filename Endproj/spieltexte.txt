@@ -1,0 +1,102 @@
+﻿Ersti-Hilfe: (bleibt in allen Spielen gleich)
+Esist an der Uni schwierig, an der Uni eine Balance zwischen Spaß, sozialen Kontakten und dem Lernstoff zu finden. Aber keine Sorge, hier sind ein paar hilfreiche Hinweise für dich.
+
+-Weiter-
+
+Wichtig ist, dass du den Überblick behältst. Du solltest Vorlesungen nicht ausfallen lassen. Lass dich dort nicht zu oft von anderen Dingen ablenken.
+
+-Weiter-
+
+Aber: Studieren kann man nicht alleine. Verliere trotz des vielen Lernstoffs deine Freunde nicht aus den Augen. Mit ihnen kannst du zusammen lernen, essen und Freizeitaktivitäten ausüben.
+
+
+-Weiter-
+
+Am oberen Bildschirmrand wirst du zwei Anzeigen sehen. Der linke Balken zeigt deinen Fortschritt bezüglich deiner sozialen Kontakte. Am rechten Balken kannst du deinen intellektuellen Stand festmachen.
+
+
+
+Intro Handytexte
+
+ToDo:
+Hier erhältst du einen Überblick über deine aktuellen Aufgaben.
+
+
+SMS:
+1 neue Nachricht
+Hallo!
+Ich bin Karlchen, Helfer der Erstis. Checke die von mir entwickelte "Ersti-Hilfe"-App. Dort stehen wichtige Hinweise für deinen Alltag an der Uni.
+
+
+
+Busspiel Handytexte
+
+ToDo:
+- Erste Vorlesung besuchen
+- Zweite Vorlesung besuchen
+- Übung besuchen
+- Lernen
+
+SMS:
+1 neue Nachricht
+Erreiche den Bus rechtzeitig. Versuche dabei, keine Passanten umzurennen. So erhältst du 4 Beliebtheitspunkte.
+Du kannst dich mit den Pfeiltasten fortbewegen. Du bekommst außerdem 2 Intelligenzpunkte, wenn du die Vorlesung pünktlich erreichst.
+
+
+Busspiel verloren:
+ SMS:
+ 1 neue Nachricht
+ Du hast den Bus verpasst! Nun kommst du zu spät zu der Vorlesung.
+
+
+Busspiel gewonnen:
+SMS:
+1 neue Nachricht
+Super! Du kommst nun pünktlich zur Vorlesung.
+
+
+
+1. Vorlesung:
+ToDo:
+- Zweite Vorlesung besuchen
+- Übung besuchen
+- Lernen
+
+SMS:
+1 neue Nachricht
+Konzentriere dich in der Vorlesung. Merke dir die Inhalte.
+
+Vorlesung Ende:
+SMS:
+1 neue Nachricht
+Du hast deine erste Vorlesung hinter dir. Hoffentlich hast du gut aufgepasst.
+
+
+
+
+2. Vorlesung:
+ToDo:
+- Übung besuchen
+- Lernen
+
+SMS:
+1 neue Nachricht
+In dieser Vorlesung musst du sehr schnell mitschreiben, was der Professor erklärt.
+Drücke dazu rechtzeitig die angezeigten Pfeiltasten.
+
+
+
+Mensa:
+ToDo:
+- Übung besuchen
+- Lernen
+
+SMS:
+1 neue Nachricht
+Ein Mädchen ist gestolpert und hat ihr Essen fallen gelassen. Hilf ihr es aufzusammeln!
+Du kannst den Teller mit den Pfeiltasten nach links und rechts bewegen.
+
+Mensa Ende:
+SMS:
+1 neue Nachricht
+Wie nett von dir! Du hast dem Mädchen geholfen, ihr Essen aufzusammeln.
