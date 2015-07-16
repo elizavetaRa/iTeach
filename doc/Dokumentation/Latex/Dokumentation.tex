@@ -1,0 +1,126 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Thin Sectioned Essay
+% LaTeX Template
+% Version 1.0 (3/8/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original Author:
+% Nicolas Diaz (nsdiaz@uc.cl) with extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper, 11pt]{article} % Font size (can be 10pt, 11pt or 12pt) and paper size (remove a4paper for US letter paper)
+
+\usepackage[protrusion=true,expansion=true]{microtype} % Better typography
+\usepackage{graphicx} % Required for including pictures
+\usepackage{wrapfig} % Allows in-line images
+
+\usepackage{mathpazo} % Use the Palatino font
+\usepackage[T1]{fontenc} % Required for accented characters
+\linespread{1.05} % Change line spacing here, Palatino benefits from a slight increase by default
+
+\usepackage[utf8]{inputenc}
+\usepackage[colorlinks, pdfpagelabels, pdfstartview = FitH, bookmarksopen = true, bookmarksnumbered = true, linkcolor = black, plainpages = false, hypertexnames = false, citecolor = black] {hyperref}
+\usepackage{hyphenat}
+
+\makeatletter
+\renewcommand\@biblabel[1]{\textbf{#1.}} % Change the square brackets for each bibliography item from '[1]' to '1.'
+\renewcommand{\@listI}{\itemsep=0pt} % Reduce the space between items in the itemize and enumerate environments and the bibliography
+
+\renewcommand{\maketitle}{ % Customize the title - do not edit title and author name here, see the TITLE block below
+\begin{flushright} % Right align
+{\LARGE\@title} % Increase the font size of the title
+
+\vspace{50pt} % Some vertical space between the title and author name
+
+{\large\@author} % Author name
+\\\@date % Date
+
+\vspace{40pt} % Some vertical space between the author block and abstract
+\end{flushright}
+}
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+\title{\textbf{Dokumentation des Medida Projekts "Uniknigge"}\\ % Title
+von Hung Tran Duc, Elizaveta Ragosina, Philipp Plotz, Christoph Jurkowski, Niklas Fallik und Sheyda Hayatgheybi} % Subtitle
+
+\author{\textsc{Gruppe 1 (Tutorin: Bianca Preißler)} % Author
+\\{\textit{Technische Universität Dresden}}} % Institution
+
+\date{16.07.2015} % Date
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Print the title section
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT AND KEYWORDS
+%----------------------------------------------------------------------------------------
+
+\renewcommand{\abstractname}{Präambel} % Uncomment to change the name of the abstract to something else
+
+\vspace{5cm} % Some vertical space between the abstract and first section
+
+
+\begin{abstract}
+\noindent
+Die hier vorliegende Dokumentation des Mediendidaktik und -psychologie Praktikums der Gruppe 1 mit Hung Tran Duc, Elizaveta Ragosina, Philipp Plotz, Christoph Jurkowski, Niklas Fallik und Sheyda Hayatgheybi legt die Vorstellung des Spiels, Technische Umsetzung, Evaluation mit der Zielgruppe, Projektverlauf
+und eigenes Fazit sowie ein Statement von jedem Gruppenmitglied dar. Das Lernspiel "Uniknigge" basiert auf dem weitverbreiteten Adobe Flash und bildet zusammen mit allerhand Mini-Spielen und Grafiken ein vollständiges Spiel.
+\end{abstract}
+
+% \hspace*{3,6mm}\textit{Keywords:} lorem , ipsum , dolor , sit amet , lectus % Keywords
+
+\newpage 
+\section*{Historie}
+Wichtige Änderungen und zugehörige ausführende Autoren.\\
+\begin{tabular}{|lllp{5.5cm}|}
+\hline 
+\textbf{Version} & \textbf{Datum} & \textbf{Autor(en)} & \textbf{Bemerkungen} \\ 
+\hline 
+0.1 & 16.07.2015 & Christoph Jurkowski & \nohyphens{Erstellung der Struktur, Präambel, Einfügen von Dokumentationsteilen} \\ 
+\hline
+\end{tabular} 
+
+
+%----------------------------------------------------------------------------------------
+%	ESSAY BODY
+%----------------------------------------------------------------------------------------
+
+\newpage
+\renewcommand{\contentsname}{Inhaltsverzeichnis}
+\tableofcontents
+
+\newpage
+\section{Einführung}
+Diese Dokumentation beschäftigt sich mit der Umsetzung des Lernspiels "Uniknigge" von der Idee bis zum vollständigen Spiel durch die Entwickler und Grafiker Hung Tran Duc, Elizaveta Ragosina, Philipp Plotz, Christoph Jurkowski, Niklas Fallik und Sheyda Hayatgheybi.
+
+\section{Vorstellung des Spiels}
+
+\section{Technische Umsetzung}
+
+\section{Evaluation mit der Zielgruppe}
+
+\section{Projektverlauf}
+
+\section{Fazit}
+
+\section{Statement von jedem Gruppenmitglied}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
