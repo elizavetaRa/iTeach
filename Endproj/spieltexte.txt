@@ -100,3 +100,51 @@ Mensa Ende:
 SMS:
 1 neue Nachricht
 Wie nett von dir! Du hast dem Mädchen geholfen, ihr Essen aufzusammeln.
+
+
+
+
+Labyrinth
+ToDo:
+- Übung besuchen
+- Lernen
+
+SMS:
+1 neue Nachricht
+Du solltest dich beeilen, damit du pünktlich zur Übung kommst. Aber bedenke, wer es eilig hat, sollte langsam gehen.
+Benutze die Pfeiltasten, um den Weg durch die Fakultät zu finden.
+
+
+Labyrinth gewonnen:
+SMS:
+1 neue Nachricht
+Super, du hast den Übungsraum rechtzeitig gefunden.
+
+
+Labyrinth verloren:
+SMS:
+1 neue Nachricht
+Oh nein! Du hast den Weg nicht rechtzeitig gefunden. Die Übung fängt ohne dich an.
+
+
+
+
+Übung:
+ToDo:
+- Lernen
+
+SMS:
+1 neue Nachricht
+Willkommen in deiner ersten Übung! Beantworte die Fragen, indem du auf die richtigen Antworten klickst.
+
+
+Übung Ende gut:
+SMS:
+1 neue Nachricht
+Herzlichen Glückwunsch! Du hast die Übung gemeistert.
+
+
+Übung Ende schlecht:
+SMS.
+1 neue Nachricht
+Diese Übung lief nicht so gut. Du solltest besser aufpassen.
