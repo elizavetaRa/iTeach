@@ -7,16 +7,17 @@
 \contentsline {subsection}{\numberline {3.4}Intro}{5}{subsection.9}
 \contentsline {subsection}{\numberline {3.5}Spielablauf}{5}{subsection.10}
 \contentsline {subsection}{\numberline {3.6}Minispiele}{6}{subsection.11}
-\contentsline {subsection}{\numberline {3.7}Das Smartphone}{6}{subsection.12}
+\contentsline {subsection}{\numberline {3.7}Smartphone}{6}{subsection.12}
 \contentsline {subsection}{\numberline {3.8}Outro}{6}{subsection.13}
-\contentsline {subsection}{\numberline {3.9}Hilfsmittel}{6}{subsection.14}
-\contentsline {section}{\numberline {4}Evaluation mit der Zielgruppe}{6}{section.15}
-\contentsline {section}{\numberline {5}Projektverlauf}{7}{section.16}
-\contentsline {section}{\numberline {6}Fazit}{7}{section.17}
-\contentsline {section}{\numberline {7}Statement von jedem Gruppenmitglied}{8}{section.18}
-\contentsline {subsection}{\numberline {7.1}Hung Tran Duc}{8}{subsection.19}
-\contentsline {subsection}{\numberline {7.2}Elizaveta Ragosina}{8}{subsection.20}
-\contentsline {subsection}{\numberline {7.3}Philipp Plotz}{8}{subsection.21}
-\contentsline {subsection}{\numberline {7.4}Christoph Jurkowski}{8}{subsection.22}
-\contentsline {subsection}{\numberline {7.5}Niklas Fallik}{8}{subsection.23}
-\contentsline {subsection}{\numberline {7.6}Sheyda Hayatgheybi}{8}{subsection.24}
+\contentsline {subsection}{\numberline {3.9}Hilfsmittel f\IeC {\"u}r die Entwicklung}{6}{subsection.14}
+\contentsline {subsection}{\numberline {3.10}Hilfsmittel f\IeC {\"u}r die Kommunikation}{6}{subsection.15}
+\contentsline {section}{\numberline {4}Evaluation mit der Zielgruppe}{6}{section.16}
+\contentsline {section}{\numberline {5}Projektverlauf}{7}{section.17}
+\contentsline {section}{\numberline {6}Fazit}{7}{section.18}
+\contentsline {section}{\numberline {7}Statement von jedem Gruppenmitglied}{8}{section.19}
+\contentsline {subsection}{\numberline {7.1}Hung Tran Duc}{8}{subsection.20}
+\contentsline {subsection}{\numberline {7.2}Elizaveta Ragosina}{8}{subsection.21}
+\contentsline {subsection}{\numberline {7.3}Philipp Plotz}{8}{subsection.22}
+\contentsline {subsection}{\numberline {7.4}Christoph Jurkowski}{8}{subsection.23}
+\contentsline {subsection}{\numberline {7.5}Niklas Fallik}{8}{subsection.24}
+\contentsline {subsection}{\numberline {7.6}Sheyda Hayatgheybi}{8}{subsection.25}
