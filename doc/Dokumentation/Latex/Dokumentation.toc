@@ -1,23 +1,33 @@
 \contentsline {section}{\numberline {1}Einf\IeC {\"u}hrung}{4}{section.3}
 \contentsline {section}{\numberline {2}Vorstellung des Spiels}{4}{section.4}
-\contentsline {section}{\numberline {3}Technische Umsetzung}{5}{section.5}
-\contentsline {subsection}{\numberline {3.1}Layout}{5}{subsection.6}
-\contentsline {subsection}{\numberline {3.2}Allgemeines}{5}{subsection.7}
-\contentsline {subsection}{\numberline {3.3}Hauptmen\IeC {\"u}}{5}{subsection.8}
-\contentsline {subsection}{\numberline {3.4}Einleitung}{5}{subsection.9}
-\contentsline {subsection}{\numberline {3.5}Spielablauf}{5}{subsection.10}
-\contentsline {subsection}{\numberline {3.6}Minispiele}{6}{subsection.11}
-\contentsline {subsection}{\numberline {3.7}Smartphone}{6}{subsection.12}
-\contentsline {subsection}{\numberline {3.8}Abschluss}{6}{subsection.13}
-\contentsline {subsection}{\numberline {3.9}Hilfsmittel f\IeC {\"u}r die Entwicklung}{6}{subsection.14}
-\contentsline {subsection}{\numberline {3.10}Hilfsmittel f\IeC {\"u}r die Kommunikation}{6}{subsection.15}
-\contentsline {section}{\numberline {4}Evaluation mit der Zielgruppe}{6}{section.16}
-\contentsline {section}{\numberline {5}Projektverlauf}{7}{section.17}
-\contentsline {section}{\numberline {6}Fazit}{7}{section.18}
-\contentsline {section}{\numberline {7}Statement von jedem Gruppenmitglied}{8}{section.19}
-\contentsline {subsection}{\numberline {7.1}Hung Tran Duc}{8}{subsection.20}
-\contentsline {subsection}{\numberline {7.2}Elizaveta Ragosina}{8}{subsection.21}
-\contentsline {subsection}{\numberline {7.3}Philipp Plotz}{9}{subsection.22}
-\contentsline {subsection}{\numberline {7.4}Christoph Jurkowski}{9}{subsection.23}
-\contentsline {subsection}{\numberline {7.5}Niklas Fallik}{10}{subsection.24}
-\contentsline {subsection}{\numberline {7.6}Sheyda Hayatgheybi}{10}{subsection.25}
+\contentsline {subsection}{\numberline {2.1}Allgemein}{4}{subsection.5}
+\contentsline {subsection}{\numberline {2.2}Spiel}{5}{subsection.6}
+\contentsline {subsubsection}{\numberline {2.2.1}Startmen\IeC {\"u}}{5}{subsubsection.7}
+\contentsline {subsubsection}{\numberline {2.2.2}Einleitung}{6}{subsubsection.8}
+\contentsline {subsubsection}{\numberline {2.2.3}Busspiel}{6}{subsubsection.9}
+\contentsline {subsubsection}{\numberline {2.2.4}Vorlesung 1}{7}{subsubsection.10}
+\contentsline {subsubsection}{\numberline {2.2.5}Vorlesung 2}{7}{subsubsection.11}
+\contentsline {subsubsection}{\numberline {2.2.6}Mensa}{8}{subsubsection.12}
+\contentsline {subsubsection}{\numberline {2.2.7}Labyrinth}{8}{subsubsection.13}
+\contentsline {subsubsection}{\numberline {2.2.8}\IeC {\"U}bung}{9}{subsubsection.14}
+\contentsline {section}{\numberline {3}Technische Umsetzung}{9}{section.15}
+\contentsline {subsection}{\numberline {3.1}Layout}{9}{subsection.16}
+\contentsline {subsection}{\numberline {3.2}Allgemeines}{9}{subsection.17}
+\contentsline {subsection}{\numberline {3.3}Hauptmen\IeC {\"u}}{9}{subsection.18}
+\contentsline {subsection}{\numberline {3.4}Einleitung}{10}{subsection.19}
+\contentsline {subsection}{\numberline {3.5}Spielablauf}{10}{subsection.20}
+\contentsline {subsection}{\numberline {3.6}Minispiele}{10}{subsection.21}
+\contentsline {subsection}{\numberline {3.7}Smartphone}{10}{subsection.22}
+\contentsline {subsection}{\numberline {3.8}Abschluss}{10}{subsection.23}
+\contentsline {subsection}{\numberline {3.9}Hilfsmittel f\IeC {\"u}r die Entwicklung}{11}{subsection.24}
+\contentsline {subsection}{\numberline {3.10}Hilfsmittel f\IeC {\"u}r die Kommunikation}{11}{subsection.25}
+\contentsline {section}{\numberline {4}Evaluation mit der Zielgruppe}{12}{section.26}
+\contentsline {section}{\numberline {5}Projektverlauf}{12}{section.27}
+\contentsline {section}{\numberline {6}Fazit}{13}{section.28}
+\contentsline {section}{\numberline {7}Statement von jedem Gruppenmitglied}{13}{section.29}
+\contentsline {subsection}{\numberline {7.1}Hung Tran Duc}{13}{subsection.30}
+\contentsline {subsection}{\numberline {7.2}Elizaveta Ragosina}{13}{subsection.31}
+\contentsline {subsection}{\numberline {7.3}Philipp Plotz}{14}{subsection.32}
+\contentsline {subsection}{\numberline {7.4}Christoph Jurkowski}{14}{subsection.33}
+\contentsline {subsection}{\numberline {7.5}Niklas Fallik}{15}{subsection.34}
+\contentsline {subsection}{\numberline {7.6}Sheyda Hayatgheybi}{15}{subsection.35}
