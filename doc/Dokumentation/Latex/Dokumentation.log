@@ -1,21 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.13)  18 JUL 2015 15:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 JUL 2015 16:32
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **Dokumentation.tex
-(C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+(./Dokumentation.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,11 +23,11 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 \MT@toks=\toks15
@@ -44,7 +37,7 @@ LaTeX Info: Redefining \textls on input line 766.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
 \MT@listname@count=\count88
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
@@ -53,30 +46,30 @@ LaTeX Info: Redefining \lslig on input line 915.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
@@ -84,7 +77,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen106
 \WF@size=\dimen107
 \c@WF@wrappedlines=\count90
@@ -92,30 +85,30 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \WF@everypar=\toks16
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\mathpazo.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -265,7 +258,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -296,7 +289,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -320,16 +313,16 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -360,7 +353,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -368,27 +361,27 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen108
 \Hy@linkcounter=\count91
 \Hy@pagecounter=\count92
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count93
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
@@ -407,7 +400,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count94
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -432,24 +425,26 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count99
 \c@bookmark@seq@number=\count100
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip44
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyphenat\hyphenat.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language69
+\langwohyphens=\language79
 LaTeX Info: Redefining \_ on input line 43.
 )
-(C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.aux)
+(./Dokumentation.aux)
+\openout1 = `Dokumentation.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
@@ -466,7 +461,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 67.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 LaTeX Info: Redefining \microtypecontext on input line 67.
@@ -480,10 +475,10 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-ppl.cfg"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count101
 \scratchdimen=\dimen112
@@ -496,23 +491,38 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 \MPnumerator=\count105
 \makeMPintoPDFobject=\count106
 \everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 \big@size=\dimen114
 \AtBeginShipoutBox=\box28
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 137.
 )
 Package hyperref Info: Link coloring ON on input line 67.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count107
@@ -521,9 +531,10 @@ LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
 
-(C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.out)
-(C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.out)
+(./Dokumentation.out) (./Dokumentation.out)
 \@outlinefile=\write3
+\openout3 = `Dokumentation.out'.
+
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
@@ -536,36 +547,36 @@ ak-tik und -psychologie
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 89.
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Try loading font information for OML+zplm on input line 91.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMS+zplm on input line 91.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMX+zplm on input line 91.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Try loading font information for OT1+zplm on input line 91.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 Package microtype Info: Loading generic settings for font family
@@ -589,10 +600,17 @@ Overfull \hbox (33.31006pt too wide) in paragraph at lines 90--98
 [] 
  []
 
-[2] (C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.toc)
+[2] (./Dokumentation.toc)
 \tf@toc=\write4
+\openout4 = `Dokumentation.toc'.
+
  [3]
-<images/vorstellung.png, id=136, 843.75224pt x 180.675pt>
+Overfull \hbox (2.12128pt too wide) in paragraph at lines 110--111
+\T1/ppl/m/n/10.95 (-20) Diese Doku-men-ta-tion bess-chreibt die Um-set-zung des
+ Lern-spiels "Uniknigge"
+ []
+
+<images/vorstellung.png, id=137, 843.75224pt x 180.675pt>
 File: images/vorstellung.png Graphic file (type png)
 
 <use images/vorstellung.png>
@@ -613,7 +631,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
-<images/umsetzung.png, id=137, 843.75224pt x 151.16475pt>
+[4 <./images/vorstellung.png>]
+<images/umsetzung.png, id=142, 843.75224pt x 151.16475pt>
 File: images/umsetzung.png Graphic file (type png)
 
 <use images/umsetzung.png>
@@ -634,128 +653,127 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
-[4 <C:/git/iTeaching/doc/Dokumentation/Latex/images/vorstellung.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 121.
- [5 <C:/git/iTeaching/doc/Dokumentation/Latex/images/umsetzung.png>]
-<images/evaluation.png, id=146, 978.65625pt x 260.77425pt>
+[5 <./images/umsetzung.png>]
+<images/evaluation.png, id=147, 978.65625pt x 260.77425pt>
 File: images/evaluation.png Graphic file (type png)
 
 <use images/evaluation.png>
-Package pdftex.def Info: images/evaluation.png used on input line 151.
+Package pdftex.def Info: images/evaluation.png used on input line 150.
 (pdftex.def)             Requested size: 489.32693pt x 130.3868pt.
 
-Overfull \hbox (129.32693pt too wide) in paragraph at lines 151--153
+Overfull \hbox (129.32693pt too wide) in paragraph at lines 150--152
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--153
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
 
  []
 
 
-Overfull \hbox (8.0699pt too wide) in paragraph at lines 151--153
+Overfull \hbox (8.0699pt too wide) in paragraph at lines 150--152
 \T1/ppl/m/n/10.95 (-20) Das Lern-spiel gibt ange-hen-den Stu-den-ten, die zwis-
 chen der Im-ma-trikulierung
  []
 
 
-Overfull \hbox (7.68869pt too wide) in paragraph at lines 151--153
+Overfull \hbox (10.50284pt too wide) in paragraph at lines 150--152
 \T1/ppl/m/n/10.95 (-20) und der er-sten Vor-lesungszeit ste-hen die Möglichkeit
- den Uniall-tag spielerisch
+, den Uniall-tag spielerisch
  []
 
-[6 <C:/git/iTeaching/doc/Dokumentation/Latex/images/evaluation.png>]
-<images/projektverlauf.png, id=151, 978.65625pt x 237.2865pt>
+[6 <./images/evaluation.png>]
+<images/projektverlauf.png, id=153, 978.65625pt x 237.2865pt>
 File: images/projektverlauf.png Graphic file (type png)
 
 <use images/projektverlauf.png>
-Package pdftex.def Info: images/projektverlauf.png used on input line 154.
+Package pdftex.def Info: images/projektverlauf.png used on input line 153.
 (pdftex.def)             Requested size: 489.32693pt x 118.64294pt.
 
-Overfull \hbox (129.32693pt too wide) in paragraph at lines 154--155
+Overfull \hbox (129.32693pt too wide) in paragraph at lines 153--154
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 File: images/projektverlauf.png Graphic file (type png)
 <use images/projektverlauf.png>
-Package pdftex.def Info: images/projektverlauf.png used on input line 156.
+Package pdftex.def Info: images/projektverlauf.png used on input line 155.
 (pdftex.def)             Requested size: 489.32693pt x 118.64294pt.
 
-Overfull \hbox (129.32693pt too wide) in paragraph at lines 156--157
+Overfull \hbox (129.32693pt too wide) in paragraph at lines 155--156
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
-<images/statement.png, id=152, 842.54774pt x 100.57574pt>
+[7 <./images/projektverlauf.png>]
+<images/statement.png, id=159, 842.54774pt x 100.57574pt>
 File: images/statement.png Graphic file (type png)
 
 <use images/statement.png>
-Package pdftex.def Info: images/statement.png used on input line 159.
+Package pdftex.def Info: images/statement.png used on input line 158.
 (pdftex.def)             Requested size: 421.27284pt x 50.28773pt.
 
-Overfull \hbox (61.27284pt too wide) in paragraph at lines 159--160
+Overfull \hbox (61.27284pt too wide) in paragraph at lines 158--159
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
-[7 <C:/git/iTeaching/doc/Dokumentation/Latex/images/projektverlauf.png>]
-[8 <C:/git/iTeaching/doc/Dokumentation/Latex/images/statement.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 174.
+[8 <./images/statement.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 180.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 174.
-
-(C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 174.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 174.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 180.
+ (./Dokumentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 180.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 180.
 Package rerunfilecheck Info: File `Dokumentation.out' has not changed.
-(rerunfilecheck)             Checksum: 7AFDA287A9394F5BAEE99640A68C5C57;1484.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 174.
+(rerunfilecheck)             Checksum: E1E6AA519A7A66FEE580A001A054220F;1461.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 180.
  ) 
 Here is how much of TeX's memory you used:
- 7288 strings out of 493921
- 110546 string characters out of 3144879
- 215704 words of memory out of 3000000
- 10309 multiletter control sequences out of 15000+200000
- 36085 words of font info for 146 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 30i,8n,35p,1116b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Dokumentation.pdf (9 pages, 200208 bytes).
+ 7397 strings out of 493117
+ 112342 string characters out of 6135433
+ 222664 words of memory out of 5000000
+ 10581 multiletter control sequences out of 15000+600000
+ 35926 words of font info for 144 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,8n,35p,1177b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Dokumentation.pdf (9 pages, 183971 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
  35 named destinations out of 1000 (max. 500000)
  28882 words of extra memory for PDF output out of 29859 (max. 10000000)
 
