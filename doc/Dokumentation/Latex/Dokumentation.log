@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.13)  19 JUL 2015 19:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.13)  19 JUL 2015 22:09
 entering extended mode
 **Dokumentation.tex
 (C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.tex
@@ -469,38 +469,57 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language69
 LaTeX Info: Redefining \_ on input line 43.
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks19
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+\TX@col@width=\dimen115
+\TX@old@table=\dimen116
+\TX@old@col=\dimen117
+\TX@target=\dimen118
+\TX@delta=\dimen119
+\TX@cols=\count102
+\TX@ftn=\toks20
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip45
-\f@ncyO@elh=\skip46
-\f@ncyO@erh=\skip47
-\f@ncyO@olh=\skip48
-\f@ncyO@orh=\skip49
-\f@ncyO@elf=\skip50
-\f@ncyO@erf=\skip51
-\f@ncyO@olf=\skip52
-\f@ncyO@orf=\skip53
+\fancy@headwidth=\skip47
+\f@ncyO@elh=\skip48
+\f@ncyO@erh=\skip49
+\f@ncyO@olh=\skip50
+\f@ncyO@orh=\skip51
+\f@ncyO@elf=\skip52
+\f@ncyO@erf=\skip53
+\f@ncyO@olf=\skip54
+\f@ncyO@orf=\skip55
 )
 (C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 79.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-LaTeX Info: Redefining \microtypecontext on input line 77.
+LaTeX Info: Redefining \microtypecontext on input line 79.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -516,19 +535,19 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
-\scratchdimen=\dimen113
+\scratchcounter=\count103
+\scratchdimen=\dimen120
 \scratchbox=\box27
-\nofMPsegments=\count103
-\nofMParguments=\count104
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count105
-\MPscratchDim=\dimen114
-\MPnumerator=\count106
-\makeMPintoPDFobject=\count107
-\everyMPtoPDFconversion=\toks20
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen121
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks22
 )
-\big@size=\dimen115
+\big@size=\dimen122
 \AtBeginShipoutBox=\box28
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -538,7 +557,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 77.
+Package hyperref Info: Link coloring ON on input line 79.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -546,29 +565,29 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count108
+\c@section@level=\count109
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 79.
+LaTeX Info: Redefining \pageref on input line 79.
+LaTeX Info: Redefining \nameref on input line 79.
 
 (C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.out)
 (C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.out)
 \@outlinefile=\write3
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 79.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 90.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 92.
 
-Overfull \hbox (18.19676pt too wide) in paragraph at lines 91--94
+Overfull \hbox (18.19676pt too wide) in paragraph at lines 93--96
 []\T1/ppl/m/n/10 (-20) Die hier vor-lie-gen-de Do-ku-men-ta-ti-on des Me-di-en-
 di-dak-tik und -psychologie
  []
 
-<./images/logo.png, id=143, 524.96124pt x 148.555pt>
+<./images/logo.png, id=163, 524.96124pt x 148.555pt>
 File: ./images/logo.png Graphic file (type png)
  <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 98.
+Package pdftex.def Info: ./images/logo.png used on input line 104.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
 
 
@@ -582,33 +601,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/git/iTeaching/doc/Doku
 mentation/Latex/images/logo.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 99.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 101.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 106.
 
+(C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.toc
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -617,137 +635,163 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 103.
-
-Underfull \hbox (badness 3449) in paragraph at lines 105--106
-[]\T1/ppl/m/n/10.95 (+20) Erstellung erster Texte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-[]\T1/ppl/m/n/10.95 (+20) Hinzufügen der
- []
-
 File: ./images/logo.png Graphic file (type png)
+
 <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 118.
+Package pdftex.def Info: ./images/logo.png used on input line 38.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [2]
-(C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.toc)
+ [2])
 \tf@toc=\write4
 File: ./images/logo.png Graphic file (type png)
-
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 122.
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 108.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
  [3]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 127.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 113.
 
-<images/vorstellung.png, id=199, 843.75224pt x 180.675pt>
-File: images/vorstellung.png Graphic file (type png)
-
-<use images/vorstellung.png>
-Package pdftex.def Info: images/vorstellung.png used on input line 128.
-(pdftex.def)             Requested size: 421.87509pt x 90.33727pt.
-
-Overfull \hbox (61.87509pt too wide) in paragraph at lines 128--130
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
-
- []
-
-File: ./images/logo.png Graphic file (type png)
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 133.
-(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [4 <C:/git/iTeaching/doc/Dokumentation/Latex/images/vorstellung.png>] <images/
-spiel/startmenue.png, id=204, 770.88pt x 433.62pt>
+<images/spiel/startmenue.png, id=223, 770.88pt x 433.62pt>
 File: images/spiel/startmenue.png Graphic file (type png)
 
 <use images/spiel/startmenue.png>
-Package pdftex.def Info: images/spiel/startmenue.png used on input line 136.
+Package pdftex.def Info: images/spiel/startmenue.png used on input line 121.
 (pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
 
  []
 
-<images/spiel/intro.png, id=205, 770.88pt x 433.62pt>
+File: ./images/logo.png Graphic file (type png)
+<use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 123.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+ [4]
+<images/spiel/intro.png, id=228, 770.88pt x 433.62pt>
 File: images/spiel/intro.png Graphic file (type png)
 
 <use images/spiel/intro.png>
-Package pdftex.def Info: images/spiel/intro.png used on input line 140.
+Package pdftex.def Info: images/spiel/intro.png used on input line 125.
 (pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 File: ./images/logo.png Graphic file (type png)
 <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 142.
+Package pdftex.def Info: ./images/logo.png used on input line 127.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [5 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/startmenue.png>]
-<images/spiel/busspiel.png, id=210, 770.88pt x 434.22224pt>
+ [5 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/startmenue.png> <C:/
+git/iTeaching/doc/Dokumentation/Latex/images/spiel/intro.png>] <images/spiel/bu
+sspiel.png, id=233, 770.88pt x 434.22224pt>
 File: images/spiel/busspiel.png Graphic file (type png)
 
 <use images/spiel/busspiel.png>
-Package pdftex.def Info: images/spiel/busspiel.png used on input line 144.
+Package pdftex.def Info: images/spiel/busspiel.png used on input line 129.
 (pdftex.def)             Requested size: 354.6091pt x 199.74464pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--146
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 
  []
 
-File: ./images/logo.png Graphic file (type png)
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 146.
-(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [6 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/intro.png> <C:/git/i
-Teaching/doc/Dokumentation/Latex/images/spiel/busspiel.png>] <images/spiel/vorl
-esung1.png, id=215, 770.88pt x 433.62pt>
+<images/spiel/vorlesung1.png, id=234, 770.88pt x 433.62pt>
 File: images/spiel/vorlesung1.png Graphic file (type png)
 
 <use images/spiel/vorlesung1.png>
-Package pdftex.def Info: images/spiel/vorlesung1.png used on input line 148.
+Package pdftex.def Info: images/spiel/vorlesung1.png used on input line 133.
 (pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
 
-<images/spiel/vorlesung2.png, id=216, 770.88pt x 434.22224pt>
+<images/spiel/vorlesung2.png, id=235, 770.88pt x 434.22224pt>
 File: images/spiel/vorlesung2.png Graphic file (type png)
 
 <use images/spiel/vorlesung2.png>
-Package pdftex.def Info: images/spiel/vorlesung2.png used on input line 150.
+Package pdftex.def Info: images/spiel/vorlesung2.png used on input line 135.
 (pdftex.def)             Requested size: 354.6091pt x 199.74464pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--152
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--152
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
 
  []
 
 File: ./images/logo.png Graphic file (type png)
 <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 152.
+Package pdftex.def Info: ./images/logo.png used on input line 137.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [7 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/vorlesung1.png>] <im
-ages/spiel/mensa.png, id=222, 770.88pt x 433.62pt>
+ [6 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/busspiel.png>]
+File: ./images/logo.png Graphic file (type png)
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 137.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+ [7 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/vorlesung1.png> <C:/
+git/iTeaching/doc/Dokumentation/Latex/images/spiel/vorlesung2.png>]
+<images/spiel/mensa.png, id=245, 770.88pt x 433.62pt>
 File: images/spiel/mensa.png Graphic file (type png)
 
 <use images/spiel/mensa.png>
-Package pdftex.def Info: images/spiel/mensa.png used on input line 154.
+Package pdftex.def Info: images/spiel/mensa.png used on input line 139.
+(pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+<images/spiel/labyrinth.png, id=246, 770.88pt x 433.01775pt>
+File: images/spiel/labyrinth.png Graphic file (type png)
+
+<use images/spiel/labyrinth.png>
+Package pdftex.def Info: images/spiel/labyrinth.png used on input line 142.
+(pdftex.def)             Requested size: 354.6091pt x 199.19057pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+File: ./images/logo.png Graphic file (type png)
+<use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 144.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+ [8 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/mensa.png>] <images/
+spiel/uebung.png, id=251, 770.88pt x 430.60875pt>
+File: images/spiel/uebung.png Graphic file (type png)
+
+<use images/spiel/uebung.png>
+Package pdftex.def Info: images/spiel/uebung.png used on input line 146.
+(pdftex.def)             Requested size: 354.6091pt x 198.08241pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+ []
+
+File: ./images/logo.png Graphic file (type png)
+<use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 148.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+ [9 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/labyrinth.png> <C:/g
+it/iTeaching/doc/Dokumentation/Latex/images/spiel/uebung.png>] <images/spiel/en
+tscheidung.png, id=256, 770.88pt x 433.62pt>
+File: images/spiel/entscheidung.png Graphic file (type png)
+
+<use images/spiel/entscheidung.png>
+Package pdftex.def Info: images/spiel/entscheidung.png used on input line 150.
+(pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+
+ []
+
+<images/spiel/outro.png, id=257, 770.88pt x 433.62pt>
+File: images/spiel/outro.png Graphic file (type png)
+
+<use images/spiel/outro.png>
+Package pdftex.def Info: images/spiel/outro.png used on input line 154.
 (pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--156
@@ -758,257 +802,192 @@ File: ./images/logo.png Graphic file (type png)
 <use ./images/logo.png>
 Package pdftex.def Info: ./images/logo.png used on input line 156.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [8 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/vorlesung2.png> <C:/
-git/iTeaching/doc/Dokumentation/Latex/images/spiel/mensa.png>] <images/spiel/la
-byrinth.png, id=227, 770.88pt x 433.01775pt>
-File: images/spiel/labyrinth.png Graphic file (type png)
-
-<use images/spiel/labyrinth.png>
-Package pdftex.def Info: images/spiel/labyrinth.png used on input line 157.
-(pdftex.def)             Requested size: 354.6091pt x 199.19057pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--159
-
- []
-
-<images/spiel/uebung.png, id=228, 770.88pt x 430.60875pt>
-File: images/spiel/uebung.png Graphic file (type png)
-
-<use images/spiel/uebung.png>
-Package pdftex.def Info: images/spiel/uebung.png used on input line 161.
-(pdftex.def)             Requested size: 354.6091pt x 198.08241pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-
- []
-
+ [10 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/entscheidung.png> <
+C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/outro.png>]
 File: ./images/logo.png Graphic file (type png)
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 163.
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 171.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [9 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/labyrinth.png>]
-<images/spiel/entscheidung.png, id=233, 770.88pt x 433.62pt>
-File: images/spiel/entscheidung.png Graphic file (type png)
-
-<use images/spiel/entscheidung.png>
-Package pdftex.def Info: images/spiel/entscheidung.png used on input line 165.
-(pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
-
- []
-
-File: ./images/logo.png Graphic file (type png)
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 168.
-(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [10 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/uebung.png> <C:/git
-/iTeaching/doc/Dokumentation/Latex/images/spiel/entscheidung.png>] <images/spie
-l/outro.png, id=238, 770.88pt x 433.62pt>
-File: images/spiel/outro.png Graphic file (type png)
-
-<use images/spiel/outro.png>
-Package pdftex.def Info: images/spiel/outro.png used on input line 169.
-(pdftex.def)             Requested size: 354.6091pt x 199.46762pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--171
-
- []
-
-<images/umsetzung.png, id=239, 843.75224pt x 151.16475pt>
-File: images/umsetzung.png Graphic file (type png)
-
-<use images/umsetzung.png>
-Package pdftex.def Info: images/umsetzung.png used on input line 173.
-(pdftex.def)             Requested size: 421.87509pt x 75.58218pt.
-
-Overfull \hbox (61.87509pt too wide) in paragraph at lines 173--174
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-
- []
-
-File: ./images/logo.png Graphic file (type png)
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 179.
-(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [11 <C:/git/iTeaching/doc/Dokumentation/Latex/images/spiel/outro.png> <C:/git/
-iTeaching/doc/Dokumentation/Latex/images/umsetzung.png>]
-File: ./images/logo.png Graphic file (type png)
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 195.
-(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [12] <images/flash.png, id=248, 176.66pt x 168.63pt>
+ [11]
+<images/flash.png, id=266, 176.66pt x 168.63pt>
 File: images/flash.png Graphic file (type png)
-
-<use images/flash.png>
-Package pdftex.def Info: images/flash.png used on input line 199.
+ <use images/flash.png>
+Package pdftex.def Info: images/flash.png used on input line 184.
 (pdftex.def)             Requested size: 61.83192pt x 59.02138pt.
- <images/photoshop.png, id=249, 128.48pt x 128.48pt>
-File: images/photoshop.png Graphic file (type png)
 
-<use images/photoshop.png>
-Package pdftex.def Info: images/photoshop.png used on input line 204.
+<images/photoshop.png, id=267, 128.48pt x 128.48pt>
+File: images/photoshop.png Graphic file (type png)
+ <use images/photoshop.png>
+Package pdftex.def Info: images/photoshop.png used on input line 189.
 (pdftex.def)             Requested size: 64.23984pt x 64.23984pt.
 
-<images/flash_player.png, id=250, 481.8pt x 481.8pt>
+<images/flash_player.png, id=268, 481.8pt x 481.8pt>
 File: images/flash_player.png Graphic file (type png)
 
 <use images/flash_player.png>
-Package pdftex.def Info: images/flash_player.png used on input line 208.
+Package pdftex.def Info: images/flash_player.png used on input line 193.
 (pdftex.def)             Requested size: 62.63618pt x 62.63618pt.
- <images/git.png, id=251, 301.125pt x 301.125pt>
+File: ./images/logo.png Graphic file (type png)
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 199.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+ [12]
+<images/git.png, id=273, 301.125pt x 301.125pt>
 File: images/git.png Graphic file (type png)
-
-<use images/git.png>
-Package pdftex.def Info: images/git.png used on input line 217.
+ <use images/git.png>
+Package pdftex.def Info: images/git.png used on input line 202.
 (pdftex.def)             Requested size: 66.2477pt x 66.2477pt.
- <images/facebook.png, id=252, 642.4pt x 642.4pt>
-File: images/facebook.png Graphic file (type png)
 
-<use images/facebook.png>
-Package pdftex.def Info: images/facebook.png used on input line 221.
+<images/facebook.png, id=274, 642.4pt x 642.4pt>
+File: images/facebook.png Graphic file (type png)
+ <use images/facebook.png>
+Package pdftex.def Info: images/facebook.png used on input line 206.
 (pdftex.def)             Requested size: 63.59682pt x 63.59682pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-[]\T1/ppl/m/n/10.95 (+20) Facebook zur Absprache und Organisation
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+[]|\T1/ppl/m/n/10.95 (+20) Facebook zur Absprache und Organisation
  []
 
 
-Overfull \hbox (90.67993pt too wide) in paragraph at lines 229--284
+Overfull \hbox (91.47992pt too wide) in paragraph at lines 214--269
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--284
+Underfull \hbox (badness 10000) in paragraph at lines 214--269
 
  []
 
 File: ./images/logo.png Graphic file (type png)
 <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 284.
+Package pdftex.def Info: ./images/logo.png used on input line 269.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
  [13 <C:/git/iTeaching/doc/Dokumentation/Latex/images/flash.png> <C:/git/iTeach
 ing/doc/Dokumentation/Latex/images/photoshop.png> <C:/git/iTeaching/doc/Dokumen
 tation/Latex/images/flash_player.png> <C:/git/iTeaching/doc/Dokumentation/Latex
 /images/git.png> <C:/git/iTeaching/doc/Dokumentation/Latex/images/facebook.png>
 ]
-<images/evaluation.png, id=262, 978.65625pt x 260.77425pt>
-File: images/evaluation.png Graphic file (type png)
-
-<use images/evaluation.png>
-Package pdftex.def Info: images/evaluation.png used on input line 287.
-(pdftex.def)             Requested size: 489.32693pt x 130.3868pt.
-
-Overfull \hbox (129.32693pt too wide) in paragraph at lines 287--289
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--289
-
- []
-
 File: ./images/logo.png Graphic file (type png)
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 289.
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 274.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
  [14]
-<images/projektverlauf.png, id=267, 978.65625pt x 237.2865pt>
-File: images/projektverlauf.png Graphic file (type png)
+Overfull \hbox (3.71523pt too wide) in paragraph at lines 280--281
+[]|\T1/ppl/b/n/10.95 Ø| 
+ []
 
-<use images/projektverlauf.png>
-Package pdftex.def Info: images/projektverlauf.png used on input line 290.
-(pdftex.def)             Requested size: 489.32693pt x 118.64294pt.
 
-Overfull \hbox (129.32693pt too wide) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+[]|\T1/ppl/m/n/10.95 (+20) Überwiegend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--306
+
+ []
+
+
+Overfull \hbox (2.28308pt too wide) in paragraph at lines 276--306
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 276--306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-
- []
-
-File: images/projektverlauf.png Graphic file (type png)
-<use images/projektverlauf.png>
-Package pdftex.def Info: images/projektverlauf.png used on input line 292.
-(pdftex.def)             Requested size: 489.32693pt x 118.64294pt.
-
-Overfull \hbox (129.32693pt too wide) in paragraph at lines 292--293
+Overfull \hbox (22.09525pt too wide) in paragraph at lines 309--327
 [] 
  []
 
+File: ./images/logo.png Graphic file (type png)
+<use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 328.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+ [15]
+<./images/proj.jpg, id=292, 1189.44376pt x 455.7025pt>
+File: ./images/proj.jpg Graphic file (type jpg)
+ <use ./images/proj.jpg>
+Package pdftex.def Info: ./images/proj.jpg used on input line 332.
+(pdftex.def)             Requested size: 547.15077pt x 209.62569pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 329--335
 
  []
 
 File: ./images/logo.png Graphic file (type png)
 <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 293.
+Package pdftex.def Info: ./images/logo.png used on input line 350.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [15 <C:/git/iTeaching/doc/Dokumentation/Latex/images/evaluation.png> <C:/git/i
-Teaching/doc/Dokumentation/Latex/images/projektverlauf.png>]
+ [16 <C:/git/iTeaching/doc/Dokumentation/Latex/images/proj.jpg>] <images/projek
+tverlauf.png, id=297, 978.65625pt x 237.2865pt>
+File: images/projektverlauf.png Graphic file (type png)
+
+<use images/projektverlauf.png>
+Package pdftex.def Info: images/projektverlauf.png used on input line 379.
+(pdftex.def)             Requested size: 489.32693pt x 118.64294pt.
+
+Overfull \hbox (129.32693pt too wide) in paragraph at lines 379--380
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
 File: ./images/logo.png Graphic file (type png)
- <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 307.
-(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [16]
-File: ./images/logo.png Graphic file (type png)
- <use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 314.
+<use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 380.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
  [17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
 File: ./images/logo.png Graphic file (type png)
-
-<use ./images/logo.png>
-Package pdftex.def Info: ./images/logo.png used on input line 331.
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 394.
 (pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
- [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
+ [18 <C:/git/iTeaching/doc/Dokumentation/Latex/images/projektverlauf.png>]
+File: ./images/logo.png Graphic file (type png)
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 401.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+
+[19]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 418.
+File: ./images/logo.png Graphic file (type png)
+ <use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png used on input line 418.
+(pdftex.def)             Requested size: 52.49919pt x 14.85637pt.
+ [20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 418.
 
 (C:\git\iTeaching\doc\Dokumentation\Latex\Dokumentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 418.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 418.
 Package rerunfilecheck Info: File `Dokumentation.out' has not changed.
-(rerunfilecheck)             Checksum: 0956CC552B6925866F1CA9A3477EEA3B;2347.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 331.
+(rerunfilecheck)             Checksum: 643A55934C4D042AA85ABF70F0536F03;2693.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 418.
  ) 
 Here is how much of TeX's memory you used:
- 7874 strings out of 493921
- 118574 string characters out of 3144879
- 233061 words of memory out of 3000000
- 10825 multiletter control sequences out of 15000+200000
- 36880 words of font info for 156 fonts, out of 3000000 for 9000
+ 7965 strings out of 493921
+ 119564 string characters out of 3144879
+ 234704 words of memory out of 3000000
+ 10904 multiletter control sequences out of 15000+200000
+ 38486 words of font info for 158 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 30i,16n,43p,1117b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,17n,43p,1117b,481s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Dokumentation.pdf (18 pages, 5805805 bytes).
+Output written on Dokumentation.pdf (20 pages, 5837325 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 29053 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 29595 words of extra memory for PDF output out of 29859 (max. 10000000)
 
