@@ -50,6 +50,8 @@
 \end{flushright}
 }
 
+\usepackage{tabularx}
+
 %-----------------------
 % Header
 %--------------------
@@ -95,22 +97,6 @@ und das eigene Fazit sowie ein Statement von jedem Gruppenmitglied dar. Das Lern
 
 % \hspace*{3,6mm}\textit{Keywords:} lorem , ipsum , dolor , sit amet , lectus % Keywords
 
-\newpage 
-\section*{Historie}
-Wichtige Änderungen und zugehörige ausführende Autoren.\\
-\begin{tabular}{|lllp{4.25cm}|}
-\hline 
-\textbf{Version} & \textbf{Datum} & \textbf{Autor(en)} & \textbf{Bemerkungen} \\ 
-\hline 
-0.1 & 15.07.2015 & Sheyda Hayatgheybi & \nohyphens{Erstellung erster Texte für die Dokumentation} \\ 
-\hline
-0.1 & 16.07.2015 & Christoph Jurkowski & \nohyphens{Erstellung der Struktur, Präambel, Einfügen von Dokumentationsteilen} \\ 
-\hline
-0.1 & 18.07.2015 & Christoph Jurkowski & \nohyphens{Hinzufügen der Statements der Gruppe} \\ 
-\hline
-\end{tabular} 
-
-
 %----------------------------------------------------------------------------------------
 %	ESSAY BODY
 %----------------------------------------------------------------------------------------
@@ -125,7 +111,6 @@ Diese Dokumentation besschreibt die Umsetzung des Lernspiels "Uniknigge" von der
 
 \section{Vorstellung des Spiels}
 \subsection{Allgemein}
-\includegraphics[scale=0.5]{images/vorstellung.png}\\\\
 Unsere Grundidee war es ein Lernspiel zu entwickeln, welches als universalen Verhaltenskodex für angehende Studenten am Beispiel eines Informatikstudenten der TU Dresden dient. Angelehnt an den Verhaltenskodex haben wir unser Spiel „Uniknigge“ genannt. Unsere Zielgruppe sind angehende Studenten, die kurz vor dem Antritt ihres Erststudiums sind, d.h. zwischen der Immatrikulation und dem ersten Tag in der Universität. Dabei benötigt der Spieler keinerlei spezifische Vorkenntnisse, sondern soll intuitiv nach bestem Gewissen agieren. \\
 
 Das Spiel selbst führt den Spieler durch einen fiktiven ersten Tag in der Uni und stellt ihn immer wieder vor soziale wie auch intellektuelle Herausforderungen. Die Herausforderungen werden in der Spielstory wie auch in den Minispielen offensichtlich oder versteckt gestellt. Während des Intros wird dem Spieler in Form einer Smartphone App eine ausführliche Erklärung, welche man jederzeit im Spiel wieder aufrufen kann, zur Verfügung gestellt. Zusätzlich werden vor jedem Minispiel, weitere Regeln zum Verhalten wie auch zur Spielanwendung bereitgestellt. Nach den Minispielen sowie bei Herausforderungen während des Spiels, wird eine kurze Auswertung gezeigt, ggf. mit Lob und Kritik. Am Ende des Spiels folgt eine längere Resolution mit Verweisen auf jeweilige Herausforderungen mit Verbesserungsvorschlägen für den nächsten Spielablauf. Da unser Spiel eine Verhaltensanleitung darstellt, ist das Ziel und die Zielfindung zunächst nicht klar erkennbar und wird erst während des Spiels sichtbar.
@@ -170,9 +155,9 @@ Nach der Übung kann der Spieler etwas über die Möglichkeiten zur Freizeitgest
 Am Ende des Spiels werden dem Spieler seine Punkte nach einer kleinen Animation angezeigt. Zu seinen Punkten erhält der Spieler auch einen kurzen Erklärungstext.
 
 \section{Technische Umsetzung}
-\includegraphics[scale=0.5]{images/umsetzung.png}\\\\
 \subsection{Layout}
-\subsection{Allgemeines}
+Das Spiel ist im Comicdesign gehalten um den Spieler in einer spielerischen und nicht ganz realistischen Welt der Hochschulen und Universitäten zu empfangen. Durch die Wahl des Comicdesign wird auch die Gestaltung des Spieles Vereinfacht und die Entwicklung beschleunigt. Durch statische Schaltflächen die zu jeder Zeit im Spiel vorhanden sind kann zum Beispiel die Audioausgabe gesteuert, oder das Spiel pausiert werden. Durch Sprech- und Gedankenblasen kann der Spieler dem Spielablauf gut folgen. Damit der Spieler auch im Verlauf des Spiels nachlesen kann, was er zu tun hat, wurde zusätzlich in Smartphone mit hilfreichen Informationen eingebaut. Damit der Spieler das Spiel intuitiv bedienen kann wurde zusätzlich auf die Konsistenz der Benutzersteuerung wert gelegt.
+
 \subsection{Hauptmenü}
 Unser Hauptmenü, wie auch alle weiteren Spielsequenzen haben als Hintergrund ein Foto, das in Photoshop bearbeitet, an eine Comic-ähnliche Aufmachung erinnert. Diesen Stil haben wir auch auf die Figuren und sämtliche andere Gegenstände übertragen.
 Zusätzlich ist im Hauptmenü der Schriftzug „Uniknigge“ und drei Buttons zu sehen. Die Buttons sind zum Starten des Spiels, Fortsetzen des Spiels und zur aktuellen Punkteabfrage vorgesehen. Das Hauptmenü dient der Einstimmung des Spielers auf das Spiel und die Spielumgebung.
@@ -284,10 +269,81 @@ H & Hintergrund \\
 
 
 \section{Evaluation mit der Zielgruppe}
-\includegraphics[scale=0.5]{images/evaluation.png}\\\\
 Das Lernspiel gibt angehenden Studenten, die zwischen der Immatrikulierung und der ersten Vorlesungszeit stehen die Möglichkeit den Unialltag spielerisch in seiner Vielseitigkeit kennenzulernen. Ausgerichtet auf diesen Anspruch haben wir die Bedienungen, Texte und Aufgaben auf einem hohen Niveau, damit sie die angehenden Studenten damit identifizieren können. Neben dem spielerischen Aspekt kann das Lernspiel auch auf den Webseiten von Universitäten und Berufsorientierungsportalen zu Verfügung gestellt werden. Abiturienten können durch das Spiel Fragen wie zum Beispiel "Wie sieht der Unialltag aus?“, "Wie finde ich mich an der Uni zurecht?“ oder "Wie komme ich in Kontakt mit anderen Studenten?“ klären. Um Spielatmosphäre während des Spielens und Lernen etwas aufzulockern, Haben fiktive Elemente, wie Karlchen, welcher dem Spieler Nachts die Smartphone App empfiehlt, eingebaut. Zudem sind die Minispiele überzogene Anlehnungen an unsere eigenen Erfahrungen an das erste Semester. Ein Beispiel das jeder Student kennt ist das Labyrinth zur Raumfindung. 
+
 \section{Projektverlauf}
-\includegraphics[scale=0.5]{images/projektverlauf.png}\\\\
+\subsection{Aufgabenverteilung}
+\begin{tabular}{|lp{9.0cm}|}
+\hline 
+\textbf{Mitglied} & \textbf{Aufgaben} \\ 
+\hline 
+Hung Tran Duc & Smartphone, Hauptspiel, Vorlesung 2, Gruppenleiter  \\ 
+\hline
+Elizaveta Ragozina & Einleitung, Busspiel, Hauptspiel, Design \\ 
+\hline
+Philipp Plotz & Vorlesung 1, Abschluss, Protokollant \\ 
+\hline
+Christoph Jurkowski & Übung, Entscheidung, Smartphone, Dokumentation \\ 
+\hline
+Niklas Fallik & Labyrinth, Hauptspiel, Mensaspiel \\ 
+\hline
+Sheyda Hayatgheybi & Mensaspiel, Dokumentation \\ 
+\hline
+
+\end{tabular} 
+
+\subsection{Zeitplan}
+Zeitplanung am Anfang des Praktikums:\\
+\begin{figure}[ht]
+	\makebox[\textwidth]{ 
+	\includegraphics[scale=0.46]{./images/proj.jpg}}
+	\caption{Zeitplan}
+	\label{fig1}
+\end{figure} \\
+Die Zeitplanung hat sich im laufe des Semesters verschoben. Dafür gab es im Semester verschiedene Gründe wie Praktika für das Fach Medienströme oder das Komplexpraktikum und andere Vorlesungen. Zum Teil wurden auch einzelne Minispiele in ihrem Arbeitsaufwand unter und überschätzt. Zum Ende des Praktikums konnte schließlich alle Teile fertig gestellt werden. Aufgrund des immensen zeitaufwandes für die Vorbereitung und Aufzeichnung von Stimmen für die einzelnen Spielfiguren wurde davon Abstand genommen.
+
+\subsection{Aufwandsabschätzung}
+
+\vspace{5pt}
+\begin{tabularx}{\textwidth}{ccXrr}
+\hline
+%\rowcolor[gray]{.95}
+\tiny {Menge} & \tiny {Einheit} & \tiny {Beschreibung} & \tiny {Einzelpreis (netto)} & \tiny {Gesamtpreis (netto)} \\ \hline
+ 400 & Std. & Arbeit & \multicolumn{1}{r}{62,00 EUR} & \multicolumn{1}{r}{24800,00 EUR} \\ \hline \hline
+\multicolumn{ 4}{l}{\small{Summe ohne MwSt.}} & 24800,00 EUR \\ \hline
+\multicolumn{ 4}{l}{\small{MwSt. 19\% }} & 4712,00 EUR \\ \hline \hline
+\multicolumn{ 4}{l}{ \textbf{Gesamtsumme inkl. MwSt.} } & \textbf{29512,00 EUR} \\ \hline
+\end{tabularx}
+
+
+\subsection{Kostenabschätzung}
+
+\vspace{5pt}
+\begin{tabularx}{\textwidth}{ccXrr}
+\hline
+%\rowcolor[gray]{.95}
+\tiny {Menge} & \tiny {Einheit} & \tiny {Beschreibung} & \tiny {Einzelpreis (netto)} & \tiny {Gesamtpreis (netto)} \\ \hline
+\multicolumn{ 4}{l}{\small{Software}} & 856,56 EUR \\ \hline
+ 6 & St. & Adobe Creative Cloud April & \multicolumn{1}{r}{35,69 EUR} & \multicolumn{1}{r}{214.14 EUR} \\ \hline \hline
+ 6 & St. & Adobe Creative Cloud Mai & \multicolumn{1}{r}{35,69 EUR} & \multicolumn{1}{r}{214.14 EUR} \\ \hline \hline
+ 6 & St. & Adobe Creative Cloud Juni & \multicolumn{1}{r}{35,69 EUR} & \multicolumn{1}{r}{214.14 EUR} \\ \hline \hline
+ 6 & St. & Adobe Creative Cloud Juli & \multicolumn{1}{r}{35,69 EUR} & \multicolumn{1}{r}{214.14 EUR} \\ \hline \hline
+\multicolumn{ 4}{l}{\small{Projektkonzeption}} & 6200,00 EUR \\ \hline
+ 1 & St. & Themenentwurf & \multicolumn{1}{r}{700.00 EUR} & \multicolumn{1}{r}{700.00 EUR} \\ \hline \hline
+ 1 & St. & Grafikentwurf & \multicolumn{1}{r}{2500.00 EUR} & \multicolumn{1}{r}{2500.00 EUR} \\ \hline \hline
+ 1 & St. & Spielentwurf & \multicolumn{1}{r}{3000.00 EUR} & \multicolumn{1}{r}{3000.00 EUR} \\ \hline \hline
+\multicolumn{ 4}{l}{\small{Projektumsetzung}} & 10500,00 EUR \\ \hline
+ 1 & St. & Bearbeitung der Grafiken & \multicolumn{1}{r}{1500.00 EUR} & \multicolumn{1}{r}{1500.00 EUR} \\ \hline \hline
+ 1 & St. & Lerntexte & \multicolumn{1}{r}{2000.00 EUR} & \multicolumn{1}{r}{2000.00 EUR} \\ \hline \hline
+ 1 & St. & Funktionalitäten & \multicolumn{1}{r}{7000.00 EUR} & \multicolumn{1}{r}{7000.00 EUR} \\ \hline \hline
+\multicolumn{ 4}{l}{\small{Projektoptimierung}} & 1000,00 EUR \\ \hline
+ 1 & St. & Optimierung & \multicolumn{1}{r}{500.00 EUR} & \multicolumn{1}{r}{500.00 EUR} \\ \hline \hline
+ 1 & St. & Dokumentation & \multicolumn{1}{r}{500.00 EUR} & \multicolumn{1}{r}{500.00 EUR} \\ \hline \hline
+\multicolumn{ 4}{l}{\small{Summe ohne MwSt.}} & 18556,56 EUR \\ \hline
+\multicolumn{ 4}{l}{\small{MwSt. 19\% }} & 3525,75 EUR \\ \hline \hline
+\multicolumn{ 4}{l}{ \textbf{Gesamtsumme inkl. MwSt.} } & \textbf{22082,31 EUR} \\ \hline
+\end{tabularx}
+
 \section{Fazit}
 \includegraphics[scale=0.5]{images/projektverlauf.png}\\\\
 
