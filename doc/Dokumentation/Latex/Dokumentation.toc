@@ -4,31 +4,33 @@
 \contentsline {subsection}{\numberline {2.1}Allgemein}{4}{subsection.5}
 \contentsline {subsection}{\numberline {2.2}Spiel}{5}{subsection.6}
 \contentsline {subsubsection}{\numberline {2.2.1}Startmen\IeC {\"u}}{5}{subsubsection.7}
-\contentsline {subsubsection}{\numberline {2.2.2}Einleitung}{5}{subsubsection.8}
+\contentsline {subsubsection}{\numberline {2.2.2}Einleitung}{6}{subsubsection.8}
 \contentsline {subsubsection}{\numberline {2.2.3}Busspiel}{6}{subsubsection.9}
 \contentsline {subsubsection}{\numberline {2.2.4}Vorlesung 1 und 2}{7}{subsubsection.10}
 \contentsline {subsubsection}{\numberline {2.2.5}Mensa}{8}{subsubsection.11}
 \contentsline {subsubsection}{\numberline {2.2.6}Labyrinth}{9}{subsubsection.12}
-\contentsline {subsubsection}{\numberline {2.2.7}\IeC {\"U}bung}{9}{subsubsection.13}
-\contentsline {section}{\numberline {3}Technische Umsetzung}{10}{section.14}
-\contentsline {subsection}{\numberline {3.1}Layout}{10}{subsection.15}
-\contentsline {subsection}{\numberline {3.2}Allgemeines}{10}{subsection.16}
-\contentsline {subsection}{\numberline {3.3}Hauptmen\IeC {\"u}}{10}{subsection.17}
-\contentsline {subsection}{\numberline {3.4}Einleitung}{10}{subsection.18}
-\contentsline {subsection}{\numberline {3.5}Spielablauf}{11}{subsection.19}
-\contentsline {subsection}{\numberline {3.6}Minispiele}{11}{subsection.20}
-\contentsline {subsection}{\numberline {3.7}Smartphone}{11}{subsection.21}
-\contentsline {subsection}{\numberline {3.8}Abschluss}{11}{subsection.22}
-\contentsline {subsection}{\numberline {3.9}Hilfsmittel f\IeC {\"u}r die Entwicklung}{12}{subsection.23}
-\contentsline {subsection}{\numberline {3.10}Hilfsmittel f\IeC {\"u}r die Kommunikation}{12}{subsection.24}
-\contentsline {subsection}{\numberline {3.11}Quellen der verwendeten Medien}{13}{subsection.25}
-\contentsline {section}{\numberline {4}Evaluation mit der Zielgruppe}{14}{section.26}
-\contentsline {section}{\numberline {5}Projektverlauf}{14}{section.27}
-\contentsline {section}{\numberline {6}Fazit}{15}{section.28}
-\contentsline {section}{\numberline {7}Statement von jedem Gruppenmitglied}{15}{section.29}
-\contentsline {subsection}{\numberline {7.1}Hung Tran Duc}{15}{subsection.30}
-\contentsline {subsection}{\numberline {7.2}Elizaveta Ragozina}{15}{subsection.31}
-\contentsline {subsection}{\numberline {7.3}Philipp Plotz}{16}{subsection.32}
-\contentsline {subsection}{\numberline {7.4}Christoph Jurkowski}{16}{subsection.33}
-\contentsline {subsection}{\numberline {7.5}Niklas Fallik}{17}{subsection.34}
-\contentsline {subsection}{\numberline {7.6}Sheyda Hayatgheybi}{17}{subsection.35}
+\contentsline {subsubsection}{\numberline {2.2.7}\IeC {\"U}bung}{10}{subsubsection.13}
+\contentsline {subsubsection}{\numberline {2.2.8}Entscheidung}{10}{subsubsection.14}
+\contentsline {subsubsection}{\numberline {2.2.9}Abschluss}{11}{subsubsection.15}
+\contentsline {section}{\numberline {3}Technische Umsetzung}{11}{section.16}
+\contentsline {subsection}{\numberline {3.1}Layout}{11}{subsection.17}
+\contentsline {subsection}{\numberline {3.2}Allgemeines}{11}{subsection.18}
+\contentsline {subsection}{\numberline {3.3}Hauptmen\IeC {\"u}}{11}{subsection.19}
+\contentsline {subsection}{\numberline {3.4}Einleitung}{12}{subsection.20}
+\contentsline {subsection}{\numberline {3.5}Spielablauf}{12}{subsection.21}
+\contentsline {subsection}{\numberline {3.6}Minispiele}{12}{subsection.22}
+\contentsline {subsection}{\numberline {3.7}Smartphone}{12}{subsection.23}
+\contentsline {subsection}{\numberline {3.8}Abschluss}{13}{subsection.24}
+\contentsline {subsection}{\numberline {3.9}Hilfsmittel f\IeC {\"u}r die Entwicklung}{13}{subsection.25}
+\contentsline {subsection}{\numberline {3.10}Hilfsmittel f\IeC {\"u}r die Kommunikation}{13}{subsection.26}
+\contentsline {subsection}{\numberline {3.11}Quellen der verwendeten Medien}{14}{subsection.27}
+\contentsline {section}{\numberline {4}Evaluation mit der Zielgruppe}{15}{section.28}
+\contentsline {section}{\numberline {5}Projektverlauf}{15}{section.29}
+\contentsline {section}{\numberline {6}Fazit}{16}{section.30}
+\contentsline {section}{\numberline {7}Statement von jedem Gruppenmitglied}{16}{section.31}
+\contentsline {subsection}{\numberline {7.1}Hung Tran Duc}{16}{subsection.32}
+\contentsline {subsection}{\numberline {7.2}Elizaveta Ragozina}{16}{subsection.33}
+\contentsline {subsection}{\numberline {7.3}Philipp Plotz}{17}{subsection.34}
+\contentsline {subsection}{\numberline {7.4}Christoph Jurkowski}{17}{subsection.35}
+\contentsline {subsection}{\numberline {7.5}Niklas Fallik}{18}{subsection.36}
+\contentsline {subsection}{\numberline {7.6}Sheyda Hayatgheybi}{18}{subsection.37}
